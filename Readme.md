@@ -70,12 +70,4 @@ With 15+ years of design experience and a strong technical background, I focus o
   <li>I focus on real-world usability, not just visuals</li>
 </ul>
 
----
 
-<h2 align="left">📫 Contact</h2>
-
-<ul>
-  <li>Portfolio: your-link-here</li>
-  <li>Upwork: your-link-here</li>
-  <li>Email: your-email-here</li>
-</ul>
