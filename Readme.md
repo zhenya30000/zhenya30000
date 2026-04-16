@@ -1,7 +1,81 @@
-<h1 align="left">Hi 👋, I'm Eugeny</h1>
-<h3 align="left">A passionate fullstack developer from Russia</h3>
+<h1 align="left">Hi 👋, I'm Evgenii Sverdlov</h1>
 
-- 🌱 I’m currently using **Typescript, NextJS/React, Express**
+<h3 align="left">Product Designer, Presentation Designer & Design Engineer</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">
+I work at the intersection of product design, visual communication, and development.
+</p>
+
+<p align="left">
+With 15+ years of design experience and a strong technical background, I focus on building clear, structured, and implementation-ready solutions — from interfaces and presentations to real-world applications.
+</p>
+
+---
+
+<h2 align="left">🔧 What I do</h2>
+
+<ul>
+  <li>Design digital products (websites, dashboards, applications)</li>
+  <li>Create high-impact presentations (pitch decks, sales decks, launch materials)</li>
+  <li>Build frontend applications with modern stack</li>
+  <li>Design systems and structured visual solutions</li>
+  <li>Work with data-driven and real-world systems</li>
+</ul>
+
+---
+
+<h2 align="left">🧠 Tech stack</h2>
+
+<p><strong>Frontend</strong></p>
+<ul>
+  <li>Next.js (App Router)</li>
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>Redux Toolkit</li>
+  <li>Tailwind CSS</li>
+</ul>
+
+<p><strong>Backend & Systems</strong></p>
+<ul>
+  <li>Node.js (Express)</li>
+  <li>REST APIs</li>
+  <li>Microservices</li>
+  <li>Data synchronization (local ↔ cloud)</li>
+</ul>
+
+<p><strong>Tooling</strong></p>
+<ul>
+  <li>Docker</li>
+  <li>Jest / React Testing Library</li>
+  <li>Webpack optimization</li>
+  <li>Vercel deployment</li>
+</ul>
+
+<p><strong>Design</strong></p>
+<ul>
+  <li>Figma</li>
+  <li>Adobe Suite</li>
+  <li>Design systems</li>
+  <li>Presentation design</li>
+</ul>
+
+---
+
+<h2 align="left">⚙️ Approach</h2>
+
+<ul>
+  <li>I prefer clarity over complexity</li>
+  <li>I build systems that scale</li>
+  <li>I design with implementation in mind</li>
+  <li>I focus on real-world usability, not just visuals</li>
+</ul>
+
+---
+
+<h2 align="left">📫 Contact</h2>
+
+<ul>
+  <li>Portfolio: your-link-here</li>
+  <li>Upwork: your-link-here</li>
+  <li>Email: your-email-here</li>
+</ul>
