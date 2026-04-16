@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Evgenii Sverdlov</h1>
 
-<h3 align="left">Product Designer, Presentation Designer & Design Engineer</h3>
+<h3 align="left">Product Designer & Design Engineer</h3>
 
 <p align="left">
 I work at the intersection of product design, visual communication, and development.
@@ -16,7 +16,6 @@ With 15+ years of design experience and a strong technical background, I focus o
 
 <ul>
   <li>Design digital products (websites, dashboards, applications)</li>
-  <li>Create high-impact presentations (pitch decks, sales decks, launch materials)</li>
   <li>Build frontend applications with modern stack</li>
   <li>Design systems and structured visual solutions</li>
   <li>Work with data-driven and real-world systems</li>
@@ -56,7 +55,6 @@ With 15+ years of design experience and a strong technical background, I focus o
   <li>Figma</li>
   <li>Adobe Suite</li>
   <li>Design systems</li>
-  <li>Presentation design</li>
 </ul>
 
 ---
