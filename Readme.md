@@ -60,7 +60,9 @@ My background combines product design, visual communication, and frontend engine
 <h2>Backend &amp; Systems</h2>
 
 <ul>
+  <li>Go</li>
   <li>Node.js / Express</li>
+  <li>PostgreSQL</li>
   <li>REST APIs</li>
   <li>Microservice Architecture</li>
   <li>Local ↔ Cloud Data Synchronization</li>
