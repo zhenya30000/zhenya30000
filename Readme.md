@@ -1,99 +1,75 @@
-<h1>Hi, I'm Evgenii Sverdlov</h1>
+# Hi, I'm Evgenii Sverdlov
 
-<h3>Product Designer with a Frontend Engineering Background</h3>
+### Frontend / Product Engineer
 
-<p>
-I design complex digital products and turn product requirements into clear user flows, scalable interface systems, and implementation-ready solutions.
-</p>
+I build complex web products, data-heavy interfaces, and systems that connect frontend software with backend services and real hardware.
 
-<p>
-My background combines product design, visual communication, and frontend engineering. I work particularly well with data-heavy products, technical workflows, responsive interfaces, and design systems, collaborating across product and engineering from early requirements through production.
-</p>
+My strongest area is frontend engineering with React, Next.js, and TypeScript. I also work across Go, Node.js, PostgreSQL, Docker, IoT integrations, and browser-based rendering infrastructure when a product needs more than a conventional UI layer.
 
-<hr>
+I'm currently focused on Frontend / Product Engineer roles where product thinking, implementation depth, and ownership across system boundaries are useful.
 
-<h2>What I do</h2>
+---
 
-<ul>
-  <li>Design complex product workflows and data-heavy interfaces</li>
-  <li>Translate requirements into information architecture, user flows, prototypes, and high-fidelity UI</li>
-  <li>Build scalable design systems and reusable component patterns</li>
-  <li>Design responsive desktop and mobile experiences</li>
-  <li>Translate product designs into production React / Next.js interfaces</li>
-  <li>Work with technical constraints, edge cases, asynchronous states, and real-world data</li>
-</ul>
+## What I build
 
-<hr>
+- Production React / Next.js applications with complex workflows and asynchronous state
+- Data-heavy B2B interfaces, dashboards, and reusable component systems
+- Responsive product interfaces built around real application states rather than static screens
+- Go and Node.js services, APIs, background infrastructure, and deployment tooling
+- Local-first and hardware-adjacent systems using Raspberry Pi, BLE, ESP32, and telemetry
+- WebGL-heavy frontend experiences with Three.js / React Three Fiber and GSAP
 
-<h2>Product &amp; Design</h2>
+---
 
-<ul>
-  <li>Product Design</li>
-  <li>Information Architecture</li>
-  <li>User Flows</li>
-  <li>Wireframing &amp; Prototyping</li>
-  <li>Responsive / Mobile UI</li>
-  <li>Design Systems</li>
-  <li>Design Tokens</li>
-  <li>Component Systems</li>
-  <li>Interaction States</li>
-  <li>Figma</li>
-  <li>Adobe Creative Suite</li>
-</ul>
+## Core stack
 
-<hr>
+**Frontend**  
+React · Next.js App Router · TypeScript · Tailwind CSS · Redux Toolkit · TanStack Query · Responsive UI
 
-<h2>Frontend</h2>
+**Backend & systems**  
+Go · Node.js · Express · PostgreSQL · REST APIs · gRPC · Docker · Nginx
 
-<ul>
-  <li>React</li>
-  <li>Next.js (App Router)</li>
-  <li>TypeScript</li>
-  <li>Redux Toolkit</li>
-  <li>Tailwind CSS</li>
-  <li>REST API Integration</li>
-  <li>Responsive UI Implementation</li>
-</ul>
+**Hardware & real-time**  
+Raspberry Pi · BLE · ESP32 · Telemetry · Serial devices · Local ↔ Cloud synchronization
 
-<hr>
+**Testing & delivery**  
+Vitest / Jest · React Testing Library · MSW · Playwright · CI · Docker · Production debugging
 
-<h2>Backend &amp; Systems</h2>
+**Interactive frontend**  
+Three.js · React Three Fiber · GSAP · WebGL · GLSL · Blender-to-web workflows
 
-<ul>
-  <li>Go</li>
-  <li>Node.js / Express</li>
-  <li>PostgreSQL</li>
-  <li>REST APIs</li>
-  <li>Microservice Architecture</li>
-  <li>Local ↔ Cloud Data Synchronization</li>
-  <li>Docker</li>
-</ul>
+---
 
-<hr>
+## Selected engineering work
 
-<h2>Testing &amp; Delivery</h2>
+### [Go PDF Renderer](https://github.com/zhenya30000/go-pdf-renderer)
 
-<ul>
-  <li>Jest</li>
-  <li>React Testing Library</li>
-  <li>Vercel</li>
-  <li>UI QA</li>
-  <li>Developer Handoff</li>
-  <li>Production-oriented Design Specifications</li>
-</ul>
+Production-minded HTML-to-PDF service written in Go around a long-lived headless Chrome runtime. It includes bounded concurrency, queue and render timeouts, strict request validation, deny-by-default network access, API-key authentication, Prometheus metrics, OpenAPI, graceful shutdown, tests, and container deployment.
 
-<hr>
+### Research Platform
 
-<h2>Approach</h2>
+Production fintech frontend covering company discovery, custom investment research, report access, secondary-market workflows, AI-assisted analysis, reusable React components, responsive states, analytics, testing, and server-side PDF generation.
 
-<p>
-I treat interfaces as systems of workflows, states, and reusable components rather than isolated screens.
-</p>
+### RV Monitor
 
-<p>
-My engineering background helps me account for implementation constraints early, communicate effectively with developers, and carry design decisions from product requirements and Figma prototypes through to production behaviour.
-</p>
+Local-first full-stack monitoring system for a campervan, connecting Raspberry Pi, BLE and serial devices, GPS, cameras, PostgreSQL, backend services, and a Next.js interface designed for stale data, reconnects, and unreliable mobile connectivity.
 
-<p>
-I focus on clarity, predictable interaction patterns, and solutions that remain maintainable as products grow.
-</p>
+### [Woby](https://woby.ru/en)
+
+Interactive Next.js website combining React, TypeScript, GSAP, Three.js, React Three Fiber, GLSL, and Blender-exported 3D. The implementation separates React UI state from continuous WebGL animation state and includes responsive and reduced-motion fallbacks.
+
+---
+
+## Background
+
+Before moving deeper into engineering, I worked extensively in product and visual design. I still use that experience, but mainly as an engineering advantage: I can reason about product requirements, interaction states, responsive behaviour, and component systems while implementing them in production code.
+
+I tend to work best on products where the interface is only one part of the problem and the real challenge involves data flow, system state, APIs, performance, hardware constraints, or deployment.
+
+---
+
+## Contact
+
+**Email:** [hello@eugenysverdlov.ru](mailto:hello@eugenysverdlov.ru)
+
+Open to Frontend / Product Engineer opportunities.
