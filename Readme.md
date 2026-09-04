@@ -70,6 +70,6 @@ I tend to work best on products where the interface is only one part of the prob
 
 ## Contact
 
-**Email:** [hello@eugenysverdlov.ru](mailto:hello@eugenysverdlov.ru)
+**Email:** [hello@eugenysverdlov.ru](mailto:hello@evgeniisverdlov.ru)
 
 Open to Frontend / Product Engineer opportunities.
