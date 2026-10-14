@@ -40,34 +40,6 @@ Three.js · React Three Fiber · GSAP · WebGL · GLSL · Blender-to-web workflo
 
 ---
 
-## Selected engineering work
-
-### [Go PDF Renderer](https://github.com/zhenya30000/go-pdf-renderer)
-
-Production-minded HTML-to-PDF service written in Go around a long-lived headless Chrome runtime. It includes bounded concurrency, queue and render timeouts, strict request validation, deny-by-default network access, API-key authentication, Prometheus metrics, OpenAPI, graceful shutdown, tests, and container deployment.
-
-### Research Platform
-
-Production fintech frontend covering company discovery, custom investment research, report access, secondary-market workflows, AI-assisted analysis, reusable React components, responsive states, analytics, testing, and server-side PDF generation.
-
-### RV Monitor
-
-Local-first full-stack monitoring system for a campervan, connecting Raspberry Pi, BLE and serial devices, GPS, cameras, PostgreSQL, backend services, and a Next.js interface designed for stale data, reconnects, and unreliable mobile connectivity.
-
-### [Woby](https://woby.ru/en)
-
-Interactive Next.js website combining React, TypeScript, GSAP, Three.js, React Three Fiber, GLSL, and Blender-exported 3D. The implementation separates React UI state from continuous WebGL animation state and includes responsive and reduced-motion fallbacks.
-
----
-
-## Background
-
-Before moving deeper into engineering, I worked extensively in product and visual design. I still use that experience, but mainly as an engineering advantage: I can reason about product requirements, interaction states, responsive behaviour, and component systems while implementing them in production code.
-
-I tend to work best on products where the interface is only one part of the problem and the real challenge involves data flow, system state, APIs, performance, hardware constraints, or deployment.
-
----
-
 ## Contact
 
 **Email:** [hello@evgeniisverdlov.ru](mailto:hello@evgeniisverdlov.ru)
